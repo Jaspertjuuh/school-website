@@ -8,6 +8,6 @@
 	<link rel="icon" href="favicon.ico">
 </head>
 <body>
-	<?php include("topbar/topbar.html") ?>
+	<?php include("topbar.html") ?>
 </body>
 </html>
